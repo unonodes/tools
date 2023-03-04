@@ -1,3 +1,6 @@
+
+
+
 ### Установка Golang "Go" на чистый сервер
 
 
@@ -7,6 +10,11 @@
 
 
 
-### Delete your Golang "Go"
+### Delete your Golang "Go" 
+sudo rm -rvf /usr/local/go/
+sudo rm -rvf go
+
+
+###Update your Golang "Go" and install new version
 sudo rm -rvf /usr/local/go/
 sudo rm -rvf go
